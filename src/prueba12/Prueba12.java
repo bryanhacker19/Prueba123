@@ -17,6 +17,7 @@ public class Prueba12 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Bueno bueno bueno");
+        System.out.println("Buenos días");
     }
     
 }
